@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Muvi Catalog</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="movie_genre">Movie Genre</string>
+    <string name="movie_directed">Ahmad Muhyidin</string>
+    <string name="directed_by">Movie By</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genre</string>
+    <string name="back">Back</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="tv_all_movie">All Movie</string>
+    <string name="tv_popular">Popular</string>
+    <string name="tv_coming_soon">Coming Soon</string>
+    <string name="settings">Settings</string>
+    <string name="movie_rating">5.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_settings">Settings</string>
+    <string name="change_language">Change Language</string>
+
+    <string-array name="data_name_now_playing">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avenger Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Hunter Killer</item>
+        <item>Mortal Engines</item>
+        <item>Robin Hood</item>
+        <item>Spiderman Into the Spider-Verse</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_name_popular">
+        <item>Jumanji: The Next Level</item>
+        <item>Frozen II</item>
+        <item>Joker</item>
+        <item>Terminator : Dark Fate</item>
+        <item>Aladdin</item>
+        <item>Fast &amp; Furious Presents: Hobbs &amp; Shaw</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Super: Broly</item>
+    </string-array>
+
+    <string-array name="data_directed_now_playing">
+        <item>Bradley Cooper</item>
+        <item>James Wan</item>
+        <item>Joe Russo</item>
+        <item>Susanne Bier</item>
+        <item>Bryan Singer</item>
+        <item>Donovan Marsh</item>
+        <item>Christian Rivers</item>
+        <item>Otto Bathurst</item>
+        <item>Rodney Rothman</item>
+        <item>Ruben Fleischer</item>
+    </string-array>
+
+    <string-array name="data_directed_popular">
+        <item>Jake Kasdan</item>
+        <item>Chris Buck</item>
+        <item>Todd Phillips</item>
+        <item>Tim Miller</item>
+        <item>Guy Ritchie</item>
+        <item>David Leitch</item>
+        <item>Travis Knight</item>
+        <item>Steven Caple Jr</item>
+        <item>David Leitch</item>
+        <item>Dean DeBlois</item>
+        <item>Tatsuya Nagamine</item>
+    </string-array>
+
+    <string-array name="data_genre_now_playing">
+        <item>Romance, Music</item>
+        <item>Action, Adventure</item>
+        <item>Action, Fiction</item>
+        <item>Drama</item>
+        <item>Drama, Music</item>
+        <item>Action</item>
+        <item>Adventure, Fantasy</item>
+        <item>Adventure, Action</item>
+        <item>Action, Adventure</item>
+        <item>Action, Fiction</item>
+    </string-array>
+
+    <string-array name="data_genre_popular">
+        <item>Action, Adventure</item>
+        <item>Animation, Family</item>
+        <item>Drama, Crime</item>
+        <item>Action, Fiction</item>
+        <item>Adventure, Fantasy</item>
+        <item>Action, Adventure</item>
+        <item>Action, Fiction</item>
+        <item>Drama</item>
+        <item>Action, Comedy</item>
+        <item>Animation, Family</item>
+        <item>Animation, Fantasy</item>
+    </string-array>
+
+    <string-array name="data_rating_now_playing">
+        <item>3.8</item>
+        <item>3.2</item>
+        <item>4.5</item>
+        <item>3.2</item>
+        <item>4.0</item>
+        <item>3.2</item>
+        <item>3.1</item>
+        <item>3.0</item>
+        <item>4.2</item>
+        <item>3.3</item>
+    </string-array>
+
+    <string-array name="data_rating_popular">
+        <item>3.5</item>
+        <item>3.6</item>
+        <item>4.2</item>
+        <item>3.2</item>
+        <item>3.5</item>
+        <item>3.3</item>
+        <item>3.3</item>
+        <item>3.0</item>
+        <item>3.4</item>
+        <item>4.0</item>
+        <item>3.7</item>
+    </string-array>
+
+    <string-array name="data_description_now_playing">
+        <item>A country music star whose career began to fade, Jackson Maine (Bradley Cooper) found a talent that is very talented in themselves from a young musician named Ally (Lady Gaga). Maine succeeded in making Ally a promising young star. Mentors and students. Along with the skyrocketing careers of Ally and him, Maine is increasingly dilemma about this problem.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a very large army, Orm plans to conquer the remaining ocean people and then to the surface of the world. What blocked his way was Arthur Curry, half-human half-human Orm half-brother and the true heir to the throne.</item>
+        <item>Because the Avengers and their allies continue to protect the world from threats that are too large to be handled by a hero, a new danger has emerged from the cosmic shadow: Thanos. An intergalactic blasphemous despotic, his aim is to collect all six Infinity Stones, unimaginable power artifacts, and use them to cause twisted will to all reality. Everything that the Avengers have fought for has evolved to this day - the fate of the Earth and its very existence has never been more certain.</item>
+        <item>Five years after an unpleasant, invisible presence made most people commit suicide, a survivor and his two children made a desperate attempt to achieve safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon rocked the world of Music when they formed the rock and roll band Queen in 1970. Hit songs became an instant classic. When Mercury\'s increasingly wild lifestyle began to spiral out of control, Queen immediately faced her biggest challenge - finding ways to keep the band together amidst success and strength.</item>
+        <item>Captain Glass from USS Arkansas discovered that a coup was taking place in Russia, so he and his crew joined an elite group working on the ground to prevent war.</item>
+        <item>For thousands of years in the future, cities on earth will explore the world with big wheels, devouring each other in the struggle for diminishing resources. In one of the great city tracction, old London, Tom Natsworthy experienced an unexpected encounter with a mysterious young woman from an abandoned area who would change her life forever.</item>
+        <item>A hard war fighter and his Moorish commander waged a brave uprising against the corrupt British crown.</item>
+        <item>Miles Morales juggled his life between being a middle school student and being a spider man. When Wilson "Kingpin" Fisk uses a super collider, the others from across Spider-Verse are transported to this dimension.</item>
+        <item>A journalist, Eddie Brock (Tom Hardy) wants to make an investment case for the discovery led by Dr. Carlton Drake (Riz Ahmed). Because of his investigation, Eddie visited Dr.\'s lab Calrlton Drake. Everything is intended to prove that Dr. Carlton Drake is doing an evil act using Symbiote. However, unfortunately for Eddie, this living organism entered his body. Eddie found super powers within him that were able to control everything he did.</item>
+    </string-array>
+
+    <string-array name="data_description_popular">
+        <item>Spencer returns to the world of Jumanji, prompting his friends, his grandfather and his grandfather\'s friend to enter a different and more dangerous version to save him.</item>
+        <item>Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.</item>
+        <item>During the 1980s, a comedian failed to rise up and turn to a violent life in Gotham City while becoming a famous psychopathic crime figure.</item>
+        <item>Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally and an enhanced super soldier to stop the deadliest Terminator yet.</item>
+        <item>Aladdin is a kind-hearted street criminal. He will compete with Jafar, an evil wizard for the magic lamp that has the power to make their deepest wishes come true.</item>
+        <item>Hobbs &amp; Shaw (2019) cinema film baru barat yang sangat seru Ini bercerita Luke Hobbs (Dwayne Johnson) terpaksa membentuk aliansi yang mustahil dengan Deckard Shaw (Jason Statham). Keduanya terpaksa bersatu membantu Hattie Shaw (Vanessa Kirby) untuk memburu senjata virus berbahaya dan Brixton (Idris Elba). Brixton adalah penjahat jenis baru yang berhasil mengubah dirinya menjadi manusia super. Keberadaanya menjadi ancaman bagi umat manusia.</item>
+        <item>On an escape in 1987, Bumblebee found a shelter in a junkyard in the small coastal town of California. Charlie, at the age of 18 and trying to find his place in the world, found Bumblebee, a battle scar and broken. When Charlie turned it on, he quickly learned that this wasn\'t an ordinary yellow VW bug.</item>
+        <item>Between personal obligations and training for the next big battle against opponents who have ties to his family\'s past, Adonis Creed faces the challenges of his life.</item>
+        <item>Kidnapped Fred Savage is forced to hold the Deadpool PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that is full of miracles, miracles and zero F.</item>
+        <item>When Hiccup fulfilled his dream of creating a peaceful dragon utopia, Toothless\'s discovery of an untested and elusive couple kept Night Fury away. When the danger increases at home and the Hiccup government as the village head is tested, both dragons and motorists must make the impossible decision to save their kind.</item>
+        <item>Earth is peaceful after the Power Tournament. Realizing that the universe still has many stronger people to see, Goku spends all of his training days reaching greater heights. Then one day, Goku and Vegeta were confronted by a Saiyan named Broly whom they had never seen before. The Saiyan people should have been almost completely destroyed in the destruction of Planet Vegeta, so what was this person doing on Earth? The meeting between the three Saiyan who had followed this very different destiny turned into an extraordinary battle, with even Frieza (returning from Hell) trapped in the mix.</item>
+    </string-array>
+
+    <array name="data_photo_now_playing">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <array name="data_photo_popular">
+        <item>@drawable/poster_jumanji</item>
+        <item>@drawable/poster_frozen_2</item>
+        <item>@drawable/poster_joker</item>
+        <item>@drawable/poster_terminator</item>
+        <item>@drawable/poster_aladdin</item>
+        <item>@drawable/poster_fast_and_farious</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+    </array>
+
+    <array name="data_name_tv_now_playing">
+        <item>The Mandalorian</item>
+        <item> Rick and Morty</item>
+        <item>The Flash</item>
+        <item>Arrow</item>
+        <item>His Dark Materials</item>
+        <item>Vikings</item>
+        <item>4 Blocks</item>
+        <item>Batwoman</item>
+        <item>Supergirl</item>
+        <item>Black Lightning</item>
+    </array>
+
+    <array name="data_name_tv_popular">
+        <item>Watchmen</item>
+        <item>Legacies</item>
+        <item>Mrs. Fletcher</item>
+        <item>Mr. Robot</item>
+        <item>Gotham</item>
+        <item>Lucifer</item>
+        <item>The Boys</item>
+        <item>Fuller House</item>
+        <item>The Good Doctor</item>
+        <item>The L Word: Generation Q</item>
+        <item>Fear the Walking Dead</item>
+    </array>
+
+    <string-array name="data_directed_tv_now_playing">
+        <item>Jon Favreau</item>
+        <item>Dan Harmon</item>
+        <item>Geoff Johns</item>
+        <item>Greg Berlanti</item>
+        <item>Philip Pullman</item>
+        <item>Michael Hirst</item>
+        <item>Hanno Hackfort</item>
+        <item>Greg Berlanti</item>
+        <item>Greg Berlanti</item>
+        <item>Salim Akil</item>
+    </string-array>
+
+    <string-array name="data_directed_tv_popular">
+        <item>Damon Lindelof</item>
+        <item>Julie Plec</item>
+        <item>Tom Perrotta</item>
+        <item>Sam Esmail</item>
+        <item>Bruno Heller</item>
+        <item>Tom Kapinos</item>
+        <item>Evan Goldberg</item>
+        <item>Jeff Franklin</item>
+        <item>David Shore</item>
+        <item>Ilene Chaiken</item>
+        <item>Robert Kirkman</item>
+    </string-array>
+
+    <string-array name="data_genre_tv_now_playing">
+        <item>Sci-Fi, Fantasy</item>
+        <item>Animation, Action</item>
+        <item>Drama, Fantasy</item>
+        <item>Drama, Mystery</item>
+        <item>Drama, Fantasy</item>
+        <item>Action, Adventure</item>
+        <item>Drama</item>
+        <item>Action, Adventure</item>
+        <item>Action, Adventure</item>
+        <item>Action, Adventure</item>
+    </string-array>
+
+    <string-array name="data_genre_tv_popular">
+        <item>Crime, Drama</item>
+        <item>Sci-Fi, Fantasy</item>
+        <item>Comedy, Drama</item>
+        <item>Crime, Drama</item>
+        <item>Drama, Fantasy</item>
+        <item>Crime, Fantasy</item>
+        <item>Action, Adventure</item>
+        <item>Comedy, Family</item>
+        <item>Drama</item>
+        <item>Drama</item>
+        <item>Action, Adventure</item>
+    </string-array>
+
+    <string-array name="data_rating_tv_now_playing">
+        <item>3.8</item>
+        <item>4.3</item>
+        <item>3.8</item>
+        <item>2.9</item>
+        <item>3.8</item>
+        <item>3.7</item>
+        <item>2.5</item>
+        <item>3.2</item>
+        <item>3.0</item>
+        <item>3.1</item>
+    </string-array>
+
+    <string-array name="data_rating_tv_popular">
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>4.2</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>3.8</item>
+        <item>4.1</item>
+        <item>2.1</item>
+        <item>3.9</item>
+        <item>5.0</item>
+        <item>3.2</item>
+    </string-array>
+
+    <string-array name="data_description_tv_now_playing">
+        <item>Set after the fall of the Empire and before the emergence of the First Order, we follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.</item>
+        <item>Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty\'s already unstable family life, these events cause Morty much distress at home and school.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion — and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become…The Flash.</item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>Lyra is an orphan who lives in a parallel universe in which science, theology and magic are entwined. Lyra\'s search for a kidnapped friend uncovers a sinister plot involving stolen children, and turns into a quest to understand a mysterious phenomenon called Dust. She is later joined on her journey by Will, a boy who possesses a knife that can cut windows between worlds. As Lyra learns the truth about her parents and her prophesied destiny, the two young people are caught up in a war against celestial powers that ranges across many worlds.</item>
+        <item>The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar\'s band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.</item>
+        <item>Based in Neukölln, Berlin Toni manages the daily business of dealing with the Arabic gangs and ends up wanting to leave his old life behind for his family, but as expected, its never that simple.</item>
+        <item>Kate Kane, armed with a passion for social justice and a flair for speaking her mind, soars onto the streets of Gotham as Batwoman, an out lesbian and highly trained street fighter primed to snuff out the failing city\'s criminal resurgence. But don\'t call her a hero yet. In a city desperate for a savior, Kate must overcome her own demons before embracing the call to be Gotham\'s symbol of hope</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item>Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.</item>
+    </string-array>
+
+    <string-array name="data_description_tv_popular">
+        <item>Set in an alternate history where "superheroes" are treated as outlaws, "Watchmen" embraces the nostalgia of the original groundbreaking graphic novel while attempting to break new ground of its own.</item>
+        <item>In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson\'s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman\'s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.</item>
+        <item>A dual coming-of-age comedy exploring the impact of internet porn and social media, Mrs. Fletcher follows empty nest divorcée Eve Fletcher — as she reinvents her life to find the happiness and sexual fulfillment that\'s eluded her, and her college freshman son Brendan.</item>
+        <item>A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.</item>
+        <item>Before there was Batman, there was GOTHAM. Everyone knows the name Commissioner Gordon. He is one of the crime world\'s greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon\'s story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world\'s most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he\'s away from the underworld, the greater the threat that the worst of humanity could escape.</item>
+        <item>A group of vigilantes known informally as "The Boys" set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.</item>
+        <item>D.J. Tanner-Fuller is a widow and mother of three. Things become too much to handle, so she asks for help from her sister Stephanie and her best-friend Kimmy.</item>
+        <item>A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who does not have the ability to relate to people actually save their lives?</item>
+        <item>In this sequel to The L Word, Beals, Moennig and Hailey will resume their original roles alongside a new generation of diverse, self-possessed LGBTQIA characters experiencing love, heartbreak, sex, setbacks and success in L.A.</item>
+        <item>What did the world look like as it was transforming into the horrifying apocalypse depicted in "The Walking Dead"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.</item>
+    </string-array>
+
+    <array name="data_photo_tv_now_playing">
+        <item>@drawable/poster_tv_mandalorian</item>
+        <item>@drawable/poster_tv_rick_morty</item>
+        <item>@drawable/poster_tv_the_flash</item>
+        <item>@drawable/poster_tv_arrow</item>
+        <item>@drawable/poster_tv_his_dark_materials</item>
+        <item>@drawable/poster_tv_vikings</item>
+        <item>@drawable/poster_tv_4_blocks</item>
+        <item>@drawable/poster_tv_batwoman</item>
+        <item>@drawable/poster_tv_supergirl</item>
+        <item>@drawable/poster_tv_black_lightning</item>
+    </array>
+
+    <array name="data_photo_tv_popular">
+        <item>@drawable/poster_tv_watchmen</item>
+        <item>@drawable/poster_tv_legacies</item>
+        <item>@drawable/poster_tv_mr_fletcher</item>
+        <item>@drawable/poster_tv_mr_robot</item>
+        <item>@drawable/poster_tv_gotham</item>
+        <item>@drawable/poster_tv_lucifer</item>
+        <item>@drawable/poster_tv_the_boys</item>
+        <item>@drawable/poster_tv_fuller_house</item>
+        <item>@drawable/poster_tv_the_good_doctor</item>
+        <item>@drawable/poster_tv_the_word_generation</item>
+        <item>@drawable/poster_tv_fear_the_walking_dead</item>
+    </array>
+</resources>

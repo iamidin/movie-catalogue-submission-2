@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Muvi Katalog</string>
+    <string name="movie_image">Gambar Film</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="movie_genre">Genre Film</string>
+    <string name="movie_directed">Ahmad Muhyidin</string>
+    <string name="directed_by">Film Oleh</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="rating">Peringkat</string>
+    <string name="genre">Genre</string>
+    <string name="back">Kembali</string>
+    <string name="now_playing">Sekarang Tayang</string>
+    <string name="tv_all_movie">Semua Film</string>
+    <string name="tv_popular">Populer</string>
+    <string name="tv_coming_soon">Segera Datang</string>
+    <string name="settings">Pengaturan</string>
+    <string name="movie_rating">5.0</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_search">Cari</string>
+    <string name="title_upcoming">Mendatang</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="change_language">Ubah Bahasa</string>
+
+    <string-array name="data_genre_now_playing">
+        <item>Romantis, Musik</item>
+        <item>Aksi, Petualangan</item>
+        <item>Aksi, Fiksi</item>
+        <item>Drama</item>
+        <item>Drama, Musik</item>
+        <item>Aksi</item>
+        <item>Petualangan, Fantasyi</item>
+        <item>Petualangan, Aksi</item>
+        <item>Aksi, Adventure</item>
+        <item>Action, Fiksi</item>
+    </string-array>
+
+    <string-array name="data_genre_popular">
+        <item>Aksi, Petualangan</item>
+        <item>Animasi, Keluarga</item>
+        <item>Drama, Kejahatan</item>
+        <item>Aksi, Fiksi</item>
+        <item>Petualangan, Fantasi</item>
+        <item>Aksi, Petualangan</item>
+        <item>Aksi, Fiksi</item>
+        <item>Drama</item>
+        <item>Aksi, Komedi</item>
+        <item>Animasi, Keluarga</item>
+        <item>Animasi, Fantasi</item>
+    </string-array>
+
+    <string-array name="data_description_now_playing">
+        <item>Seorang bintang Music country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan. Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.</item>
+        <item>Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalAction, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon menggemparkan dunia Music ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di lapangan untuk mencegah perang.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota trAction besar ini, London tua, Tom Natsworthy mengalami perjumpaan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Seorang jurnalis, Eddie Brock (Tom Hardy) ingin melakukan sebuah investasi kasus terhadap penemuan yang dipimpin oleh Dr. Carlton Drake (Riz Ahmed). Karena investigasinya, Eddie mengunjungi lab milik Dr. Calrlton Drake. Semuanya ditujukan untuk membuktikan bahwa Dr. Carlton Drake sedang sedang melakukan tindakan jahat menggunakan Symbiote. Namun, sial bagi Eddie, organisme hidup ini masuk ke dalam tubuhnya. Eddie menemukan kekuatan super dalam dirinya yang mampu mengendalikan semua hal yang ia lakukan.</item>
+    </string-array>
+
+    <string-array name="data_description_popular">
+        <item>Spencer kembali ke dunia Jumanji, mendorong teman-temannya, kakeknya dan teman kakeknya untuk memasukkan versi yang berbeda dan lebih berbahaya untuk menyelamatkannya.</item>
+        <item>Elsa, Anna, Kristoff, dan Olaf pergi jauh ke hutan untuk mempelajari kebenaran tentang misteri kuno kerajaan mereka.</item>
+        <item>Selama 1980-an, seorang pelawak berdiri gagal didorong gila dan beralih ke kehidupan kejahatan dan kekacauan di Kota Gotham sambil menjadi tokoh kejahatan psikopat terkenal.</item>
+        <item>Beberapa dekade setelah Sarah Connor mencegah Hari Penghakiman, Terminator baru yang mematikan dikirim untuk melenyapkan pemimpin perlawanan di masa depan. Dalam perjuangan untuk menyelamatkan umat manusia, Sarah Connor yang sarat pertempuran bergabung dengan sekutu yang tak terduga dan tentara super yang ditingkatkan untuk menghentikan Terminator yang paling mematikan.</item>
+        <item>Aladdin adalah penjahat jalanan baik hati. Ia akan bersaing dengan Jafar seorang penyihir jahat untuk memperebutkan lampu ajaib yang memiliki kekuatan membuat keinginan terdalam mereka menjadi kenyataan.</item>
+        <item>Hobbs &amp; Shaw (2019) film bioskop baru barat yang sangat seru Ini bercerita Luke Hobbs (Dwayne Johnson) membahas menggambar aliansi yang berusaha dengan Deckard Shaw (Jason Statham). Hendak membantu Hattie Shaw (Vanessa Kirby) untuk memburu senjata berbahaya dan Brixton (Idris Elba). Brixton adalah penjahat jenis baru yang berhasil mengubah dirinya menjadi manusia super. Keberadaanya menjadi tantangan bagi umat manusia.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu Familynya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition of Deadpool 2 sebagai cerita Princess Bride-esque yang penuh dengan keajaiban, keajaiban dan nol F.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam semesta masih memiliki banyak orang yang lebih kuat untuk dilihat, Goku menghabiskan seluruh hari pelatihannya untuk mencapai ketinggian yang lebih besar. Lalu suatu hari, Goku dan Vegeta dihadapkan pada seorang Saiyan bernama Broly yang belum pernah mereka lihat sebelumnya. Orang-orang Saiyan seharusnya hampir sepenuhnya musnah dalam kehancuran Planet Vegeta, jadi apa yang dilakukan orang ini di Bumi? Pertemuan antara tiga Saiyan yang telah mengikuti takdir yang sangat berbeda ini berubah menjadi pertempuran yang luar biasa, dengan bahkan Frieza (kembali dari Neraka) terperangkap dalam campuran.</item>
+    </string-array>
+
+    <string-array name="data_genre_tv_now_playing">
+        <item>Sci-Fi, Fantasi</item>
+        <item>Animasi, Aksi</item>
+        <item>Drama, Fantasi</item>
+        <item>Drama, Misteri</item>
+        <item>Drama, Fantasi</item>
+        <item>Aksi, Petualangan</item>
+        <item>Drama</item>
+        <item>Aksi, Petualangan</item>
+        <item>Aksi, Petualangan</item>
+        <item>Aksi, Petualangan</item>
+    </string-array>
+
+    <string-array name="data_genre_tv_popular">
+        <item>Kejahatan, Drama</item>
+        <item>Sci-Fi, Fantasi</item>
+        <item>Komedi, Drama</item>
+        <item>Kejahatan, Drama</item>
+        <item>Drama, Fantasi</item>
+        <item>Kejahatan, Fantasi</item>
+        <item>Aksi, Petualangan</item>
+        <item>Komedi, Keluarga</item>
+        <item>Drama</item>
+        <item>Drama</item>
+        <item>Aksi, Petualangan</item>
+    </string-array>
+
+    <string-array name="data_description_tv_now_playing">
+        <item>Ditetapkan setelah jatuhnya Kekaisaran dan sebelum munculnya Orde Pertama, kita mengikuti upaya seorang penembak jitu di bagian luar galaksi yang jauh dari otoritas Republik Baru.</item>
+        <item>Rick adalah orang tua yang tidak seimbang secara mental tetapi berbakat secara ilmiah yang baru-baru ini terhubung kembali dengan keluarganya. Dia menghabiskan sebagian besar waktunya dengan melibatkan cucunya yang muda, Morty, dalam petualangan berbahaya dan aneh di luar angkasa dan alam semesta alternatif. Diperparah dengan kehidupan keluarga sudah tidak stabil Morty ini, peristiwa ini menyebabkan Morty banyak penderitaan di rumah dan sekolah.</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi tidak lama lagi dunia akan mengetahui apa yang menjadi Barry Allen … The Flash.</item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berganti, bertekad untuk membersihkan kota sebagai seorang main hakim sendiri berkerudung yang dipersenjatai dengan busur.</item>
+        <item>Lyra adalah seorang yatim piatu yang hidup di alam semesta paralel di mana sains, teologi, dan sihir terjalin. Pencarian Lyra untuk seorang teman yang diculik mengungkap plot menyeramkan yang melibatkan anak-anak yang dicuri, dan berubah menjadi upaya untuk memahami fenomena misterius yang disebut Dust. Dia kemudian bergabung dalam perjalanannya oleh Will, seorang bocah lelaki yang memiliki pisau yang dapat memotong jendela antar dunia. Ketika Lyra mengetahui kebenaran tentang orang tuanya dan takdirnya yang dinubuatkan, kedua orang muda itu terperangkap dalam perang melawan kekuatan selestial yang tersebar di banyak dunia.</item>
+        <item>Petualangan Ragnar Lothbrok, pahlawan terhebat seusianya. Serial ini menceritakan kisah-kisah band Riking dari Viking bersaudara dan keluarganya, saat ia naik menjadi Raja suku Viking. Selain sebagai pejuang yang tak kenal takut, Ragnar mewujudkan tradisi pengabdian Norse kepada para dewa. Legenda mengatakan bahwa ia adalah keturunan langsung dari Odin, dewa perang dan pejuang.</item>
+        <item>Berbasis di Neukölln, Berlin Toni mengelola bisnis harian berurusan dengan geng-geng Arab dan akhirnya ingin meninggalkan kehidupan lamanya untuk keluarganya, tetapi seperti yang diharapkan, tidak pernah sesederhana itu.</item>
+        <item>Kate Kane, dipersenjatai dengan hasrat untuk keadilan sosial dan bakat untuk mengutarakan pikirannya, melonjak ke jalan-jalan Gotham sebagai Batwoman, seorang lesbian pejuang jalanan dan sangat terlatih prima untuk memadamkan kebangkitan kriminal kota yang gagal. Tapi jangan panggil dia pahlawan. Di kota yang sangat membutuhkan penyelamat, Kate harus mengatasi iblisnya sendiri sebelum menerima panggilan untuk menjadi simbol harapan Gotham</item>
+        <item>Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya.</item>
+        <item>Jefferson Pierce adalah seorang pria yang bergulat dengan sebuah rahasia. Sebagai ayah dari dua putri dan kepala sekolah dari sebuah sekolah menengah charter yang juga berfungsi sebagai tempat yang aman bagi kaum muda di lingkungan New Orleans yang dikuasai oleh kekerasan geng, dia adalah pahlawan bagi komunitasnya.</item>
+    </string-array>
+
+    <string-array name="data_description_tv_popular">
+        <item>Ditetapkan dalam sejarah alternatif di mana "pahlawan super" diperlakukan sebagai penjahat, "Watchmen" merangkul nostalgia dari novel grafis inovatif saat mencoba untuk memecahkan tanah baru sendiri.</item>
+        <item>Di tempat di mana para penyihir muda, vampir, dan manusia serigala dibesarkan untuk menjadi diri terbaik mereka terlepas dari impuls terburuk mereka, putri Klaus Mikaelson, Hope Mikaelson, 17 tahun, kembar Alaric Saltzman, Lizzie dan Josie Saltzman, antara lain, datang usia menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted.</item>
+        <item>Sebuah komedi ganda yang datang dari usia yang mengeksplorasi dampak dari internet porno dan media sosial, Ny. Fletcher mengikuti perceraian sarang kosong Eve Fletcher - ketika ia menemukan kembali hidupnya untuk menemukan kebahagiaan dan pemenuhan seksual yang luput darinya, dan putra pertamanya di kampus Brendan .</item>
+        <item>Drama kontemporer dan resonan budaya tentang seorang programmer muda, Elliot, yang menderita gangguan anti-sosial yang melemahkan dan memutuskan bahwa ia hanya dapat terhubung dengan orang-orang dengan meretas mereka. Ia menggunakan keterampilannya sebagai senjata untuk melindungi orang-orang yang ia sayangi. tentang Elliot akan menemukan dirinya di persimpangan antara sebuah perusahaan keamanan siber yang dia bekerja untuk dan organisasi bawah yang merekrutnya untuk menjatuhkan perusahaan Amerika.</item>
+        <item>Sebelum ada Batman, ada GOTHAM. Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+        <item>Bosan dan tidak bahagia sebagai Penguasa Neraka, Lucifer Morningstar meninggalkan tahtanya dan pensiun ke Los Angeles, di mana ia telah bekerja sama dengan detektif LAPD Chloe Decker untuk menjatuhkan penjahat. Tapi semakin lama dia menjauh dari dunia bawah, semakin besar ancaman bahwa yang terburuk dari umat manusia dapat melarikan diri.</item>
+        <item>Sekelompok penjaga yang dikenal secara informal sebagai "The Boys" berangkat untuk menjatuhkan superhero yang korup dengan tidak lebih dari grit kerah biru dan kesediaan untuk melawan yang kotor.</item>
+        <item>D. J. Tanner-Fuller adalah seorang janda dan ibu dari tiga anak. Banyak hal menjadi terlalu sulit untuk ditangani, jadi dia meminta bantuan dari saudara perempuannya Stephanie dan sahabat karibnya Kimmy.</item>
+        <item>Seorang ahli bedah muda dengan sindrom Savant direkrut ke unit bedah rumah sakit bergengsi. Muncul pertanyaan: bisakah seseorang yang tidak memiliki kemampuan berhubungan dengan orang lain benar-benar menyelamatkan hidup mereka?</item>
+        <item>Dalam sekuel dari The L Word, Beals, Moennig dan Hailey akan melanjutkan peran aslinya bersama dengan generasi baru yang beragam, karakter LGBTQIA yang dimiliki sendiri yang mengalami cinta, patah hati, seks, kemunduran dan kesuksesan di L.A.</item>
+        <item>Seperti apa dunia saat berubah menjadi kiamat mengerikan yang digambarkan dalam "The Walking Dead"? Spin-off ini ditetapkan di Los Angeles, mengikuti karakter baru saat mereka menghadapi awal akhir dunia, akan menjawab pertanyaan itu.</item>
+    </string-array>
+
+</resources>
